@@ -104,6 +104,7 @@ nav {
 	position:fixed;
 	top:5px;
 	right:5px;
+	font-size:5em;
 }
 div#skipnav{
 	font-style:italic;
