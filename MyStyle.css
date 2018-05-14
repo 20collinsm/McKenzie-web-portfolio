@@ -91,7 +91,7 @@ p.review {
 nav a:hover, a:focus{
 	font-family:"times new roman";
 	font-weight:bold;
-	font-size:3em;
+	font-size:5em;
 	color:black;
 	/*navigational menu styles*/
 }
